@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome 👋
+
+Vassar College 2021 English and Comp Science.
+Currently working at Cook Systems. 
+
+Developer and writer of 'Lilith Wants to Buy Your Soul' and 
+game designer for'Gambit Game.'
+
+Enjoys playing chess.
 
 <!--
 **SamE123/SamE123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
