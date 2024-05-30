@@ -4,7 +4,7 @@ Vassar College 2021 English and Comp Science.
 Currently working at Cook Systems.👨‍🍳
 
 Developer and writer of 'Lilith Wants to Buy Your Soul' and 
-game designer for'Gambit Game.'🎮🎲
+game designer for 'Gambit Game'. 🎮🎲
 
 Enjoys playing chess. ♟
 
